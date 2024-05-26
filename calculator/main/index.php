@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Membuat Kalkulator Sederhana Dengan PHP | Tantry</title>
+    <title>calculator with PHP</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         body{
@@ -82,7 +82,7 @@
     ?>
     <div class="kalkulator">
         <h2 class="judul">KALKULATOR</h2>
-        <a class="brand" href="https://utopian.io/@tantry">Tantry</a>
+        <a class="brand" href="https://utopian.io/@tantry">Fauzy</a>
         <form method="post" action="index.php">           
             <input type="text" name="bil1" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Pertama">
             <input type="text" name="bil2" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Kedua">
